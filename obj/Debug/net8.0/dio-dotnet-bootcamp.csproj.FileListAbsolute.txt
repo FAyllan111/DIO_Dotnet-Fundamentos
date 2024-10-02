@@ -1,0 +1,15 @@
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\bin\Debug\net8.0\dio-dotnet-bootcamp.exe
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\bin\Debug\net8.0\dio-dotnet-bootcamp.deps.json
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\bin\Debug\net8.0\dio-dotnet-bootcamp.runtimeconfig.json
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\bin\Debug\net8.0\dio-dotnet-bootcamp.dll
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\bin\Debug\net8.0\dio-dotnet-bootcamp.pdb
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.AssemblyInfoInputs.cache
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.AssemblyInfo.cs
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.sourcelink.json
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.dll
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\refint\dio-dotnet-bootcamp.dll
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.pdb
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\dio-dotnet-bootcamp.genruntimeconfig.cache
+C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\obj\Debug\net8.0\ref\dio-dotnet-bootcamp.dll
