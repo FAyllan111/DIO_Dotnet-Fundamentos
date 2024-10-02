@@ -14,6 +14,7 @@ namespace dio_dotnet_bootcamp.Models
 
         public DateTime Data { get; set; }
         public void Apresentar()
+        
         {
             Console.WriteLine($"Olá,meu nome é {Nome} e tenho {Idade} anos e recebo R$ {Salario}");
             
