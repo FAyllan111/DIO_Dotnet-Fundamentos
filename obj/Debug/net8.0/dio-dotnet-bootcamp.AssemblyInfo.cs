@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dio-dotnet-bootcamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+483aff3f1310fdad1fb521b12c1345bf9b6e0067")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c7e6d499b9c0e0549030d19078b434c0b232866")]
 [assembly: System.Reflection.AssemblyProductAttribute("dio-dotnet-bootcamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dio-dotnet-bootcamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

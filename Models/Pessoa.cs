@@ -7,7 +7,7 @@ namespace dio_dotnet_bootcamp.Models
 {
     public class Pessoa // nome de classe PascalCase
     {
-        public string Nome { get; set; } 
+        //public string Nome { get; set; } 
         public int Idade { get; set; }
 
         public double Salario { get; set; }
@@ -16,7 +16,7 @@ namespace dio_dotnet_bootcamp.Models
         public void Apresentar()
         
         {
-            Console.WriteLine($"Olá,meu nome é {Nome} e tenho {Idade} anos e recebo R$ {Salario}");
+            //Console.WriteLine($"Olá,meu nome é {Nome} e tenho {Idade} anos e recebo R$ {Salario}");
             
         }
     }
