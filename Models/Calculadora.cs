@@ -48,7 +48,7 @@ namespace dio_dotnet_bootcamp.Models
             Console.WriteLine($"Cosseno é:{Math.Round(cosseno,4)}");
         }
         
-        public void Seno(double angulo)
+        public void Tangente(double angulo)
         {
             double rad = angulo * Math.PI / 180;
             double tangente = Math.Tan(rad);
