@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dio_dotnet_bootcamp
-build_property.ProjectDir = c:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\
+build_property.ProjectDir = C:\Users\Francisco.Esilva\Documents\dio-dotnet-bootcamp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
