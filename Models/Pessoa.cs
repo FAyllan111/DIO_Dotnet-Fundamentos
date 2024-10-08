@@ -1,8 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
+/*
 namespace dio_dotnet_bootcamp.Models
 {
     public class Pessoa // nome de classe PascalCase
@@ -24,3 +21,4 @@ namespace dio_dotnet_bootcamp.Models
 
 // nome de classe, propriedade e métodos(variaveis) PascalCase
 // nome de variavel camelCase
+*/
